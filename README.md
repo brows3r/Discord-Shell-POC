@@ -1,12 +1,14 @@
 # Discord-Shell-POC
 A script that can allow you to get remote access to a machine on Discord via them putting code in the console. Also allows you to crash the BetterDiscord client. I'm planning to add more connection methods along with a way to put this code in a BetterDiscord plugin so it can be more efficient.
-Shout out to [https://www.youtube.com/watch?v=RgBPo5i0T9Q&ab_channel=HellSec] for giving me the idea to make this!
+
+Shout out to [https://www.youtube.com/watch?v=RgBPo5i0T9Q&ab_channel=HellSec] for giving me the idea to make this! I never saw him release his script, so I decided to make my own.
 
 # How to use
 ```
 python main.py
 ```
 # How to crash BetterDiscord
+![image](https://user-images.githubusercontent.com/78043996/117033138-0b025300-ac8d-11eb-8531-2b07d3a27289.png)
 ```
 py main.py
 select the second option
