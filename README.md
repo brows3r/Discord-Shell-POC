@@ -16,5 +16,7 @@ The BetterDiscord client should crash and you should be instantly logged out of 
 ```
 # Credits
 Don't steal my shit lol.
+
 [https://github.com/0x1CA3]
+
 pin#1337
