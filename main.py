@@ -7,7 +7,7 @@ import os
 os.system("cls")
 print(''' 
 [1] - Generate a normal ncat shell
-[2] - Generator a ncat shell to connect to the targets CMD. [Be able to run any commands]
+[2] - Generate a ncat shell to connect to the targets CMD. [Be able to run any commands]
 
 Pick a option (number)
 Ncat must be installed on your machine!
