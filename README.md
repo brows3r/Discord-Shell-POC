@@ -1,5 +1,5 @@
 # Discord-Shell-POC
-A script that can allow you to get remote access to a machine on Discord via them putting code in the console. Also allows you to crash the BetterDiscord client. I'm planning to add more connection methods along with a way to put this code in a BetterDiscord plugin so it can be more efficient.
+A script that can allow you to get remote access to a machine on Discord via them putting code in the console. Also allows you to crash the BetterDiscord client. I'm planning to add more connection methods along with a way to put this code in a BetterDiscord plugin so it can be more efficient. Also as a precaution, if the generator happens to not work for you, there is a folder named 'Testing-Sample' which contains all of the console scripts and plugin files.
 
 If you would like to see proof of this, there are images below of the BetterDiscord client crasher and proof of me getting full access to my PC from another OS.
 
