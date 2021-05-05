@@ -15,6 +15,7 @@ python main.py
 py main.py
 select the second option
 once you are connected to the victims machine from another computer (or your own if you are simply testing)
+type something random, like 'fgisefxs'
 type in the command 'exit'
 The BetterDiscord client should crash and you should be instantly logged out of your account.
 ```
