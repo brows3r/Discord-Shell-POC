@@ -13,7 +13,7 @@ python main.py
 ![image](https://user-images.githubusercontent.com/78043996/117033138-0b025300-ac8d-11eb-8531-2b07d3a27289.png)
 ```
 py main.py
-select the second option
+select the any of the options that allows you to have access to the remote computers CMD
 once you are connected to the victims machine from another computer (or your own if you are simply testing)
 type something random, like 'fgisefxs'
 type in the command 'exit'
